@@ -19,5 +19,6 @@ Vypracovanie zadania v školení **Programming fundamentals** po 4. webinári **
 6.  [Henrieta Zelenayová](https://github.com/HeZe)
 8. [Michal Gajarsky](https://github.com/MichalGajarsky)
 13. [Boris Kordovan](https://github.com/borisGgg)
-10. [Stanislav Gregor](https://github.com/SerpentPoetry)
-14. [JanFoldesi](https://github.com/JanFoldesi/git)
+10 [Stanislav Gregor](https://github.com/SerpentPoetry)
+
+19.[Ingrid Raczkova](https://github.com/ingridRA2021)
